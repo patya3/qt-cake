@@ -1,0 +1,51 @@
+[
+    {
+        "desc": "Karamellával, vaníliás piskótával és csokis mogyorós krémmel.",
+        "dominant_color": "#ffdfb8",
+        "name": "Mogyorós trüffel szelet",
+        "price": 430,
+        "taste": "Mogyorós"
+    },
+    {
+        "desc": "Gesztenyés, vaníiliás szelet csokibevonattal a tetején.",
+        "dominant_color": "#fffff3",
+        "name": "Gesztenyekrém szelet",
+        "price": 569,
+        "taste": "Gesztenyés"
+    },
+    {
+        "desc": "Csokis, meggyes álom!",
+        "dominant_color": "#733900",
+        "name": "Lúdláb szelet",
+        "price": 470,
+        "taste": "Csoki, Meggy"
+    },
+    {
+        "desc": "Epres-sajt torta, tetején tejszínhabbal ás marcipánnal.",
+        "dominant_color": "#fbfff7",
+        "name": "Epres-sajt torta szelet",
+        "price": 700,
+        "taste": "Eper, sajt"
+    },
+    {
+        "desc": "Csokis, csokikrémes klasszikus.",
+        "dominant_color": "#aa8354",
+        "name": "Rigo-jancsi",
+        "price": 540,
+        "taste": "Csoki"
+    },
+    {
+        "desc": "Vegyesgyümölcs, tejszínhab, rizs, mák, mi kell még?",
+        "dominant_color": "#434343",
+        "name": "Gyümölcsös-rizs-kocka",
+        "price": 520,
+        "taste": "Mák"
+    },
+    {
+        "desc": "asd",
+        "dominant_color": "#65f3ff",
+        "name": "asd",
+        "price": 500,
+        "taste": "asd"
+    }
+]
