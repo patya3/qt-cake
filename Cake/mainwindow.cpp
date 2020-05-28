@@ -235,3 +235,8 @@ void MainWindow::on_actionSave_As_triggered()
        write_json(filename, this->json_objects);
    }
 }
+/* Kilepes az alkalmazasbol. */
+void MainWindow::on_actionExit_triggered()
+{
+    QCoreApplication::quit();
+}
