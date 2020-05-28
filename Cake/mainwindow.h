@@ -31,11 +31,11 @@ private slots:
 
 private:
     Ui::MainWindow *ui;
-    QString m_filename;
-    QMenu* menu;
-    QStringList table_columns;
-    QJsonArray json_objects;
-    int selected_row;
+    QString m_filename;             // filebol olvasasnal hasznalt valtozo
+    QMenu* menu;                    // tablazathoz soraihoz tartozo Context menu
+    QStringList table_columns;      // tablazatnak, illetve inkabb a JSON filenak milyen fieldjei vannak egy objecten belul
+    QJsonArray json_objects;        // JSON fajlbol beolvasott JSON objektumok tombje
+    int selected_row;               // Context Menu hivasakor melyik index-u oszlopon volt a kurzor
 
     QJsonArray read_json(QString filename);
     void set_table_rows(QJsonArray json_objects, QStringList fields);
